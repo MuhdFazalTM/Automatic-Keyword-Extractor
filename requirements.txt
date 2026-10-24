@@ -1,0 +1,11 @@
+streamlit==1.45.1
+pandas>=2.2,<3.0
+scikit-learn>=1.5,<1.7
+nltk>=3.9,<4.0
+rake-nltk>=1.0.6
+yake>=0.4.8
+networkx>=3.3,<4.0
+spacy==3.8.7
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+keybert>=0.8.5
+sentence-transformers>=3.0,<4.0
